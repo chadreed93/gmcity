@@ -1,0 +1,10 @@
+"gmcity"
+{
+	"base" "nutscript"
+	"title" "GMCity"
+	"version" "0.1"
+	"menusystem" "0"
+
+	"author_name" "Black Tea Za rebel1324 'Kyu Yeon Lee' & Nate Bowman"
+	"author_url" ""
+}
